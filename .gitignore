@@ -11,6 +11,9 @@
 # production
 /build
 
+# hookText
+hookText
+
 # misc
 .DS_Store
 .env.local
